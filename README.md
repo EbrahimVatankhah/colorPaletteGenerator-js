@@ -6,7 +6,7 @@
 
 A modern, elegant color palette generator with dual theme support and beautiful animations.
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://ebrahimvatankhah.github.io/colorPaletteGenerator-js/)
 
 ---
 
